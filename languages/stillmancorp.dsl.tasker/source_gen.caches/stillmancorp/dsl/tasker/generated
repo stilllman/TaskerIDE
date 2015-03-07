@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-6bg50zzzn6ubj73c13cub9qsylznlig">
+  <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" hash="303xz1b2lyseld0axia86q3lpvucmq6" />
+  <dep model="r:06cf4329-8619-4536-adcd-9521e9cbba4f(stillmancorp.dsl.tasker.editor)" hash="7q3pb4jyhn7akx9263afmadx9p0w7q3" />
+  <dep model="r:243a5e79-5fa3-4a3b-a4a2-44b5cd33eb49(stillmancorp.dsl.tasker.typesystem)" hash="-16i9zxmk0o76v1pmkn64ay0omd05vz7" />
+  <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" hash="b4ewbuz42qcbg1awca5bacgi0vopxqt" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" hash="a8elw7fctzg6sg8fe36u9gzu42axhdb" />
+  <common dependsOnNodes="true">
+    <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+    <dep model="r:06cf4329-8619-4536-adcd-9521e9cbba4f(stillmancorp.dsl.tasker.editor)" />
+    <dep model="r:243a5e79-5fa3-4a3b-a4a2-44b5cd33eb49(stillmancorp.dsl.tasker.typesystem)" />
+    <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <file name="Language.java" />
+  </common>
+</dependencies>
+

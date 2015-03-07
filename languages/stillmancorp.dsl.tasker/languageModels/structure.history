@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="clhi" modelUID="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" version="-1" />
+    </dependencies>
+    <rename id="clhi.2972535824193547901" type="CHILD" from="tasks" to="task" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="clhi" modelUID="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" version="0" />
+    </dependencies>
+    <rename id="clhi.2972535824193962131" type="CONCEPT" from="Event" to="EventDefinition" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="clhi" modelUID="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" version="1" />
+    </dependencies>
+    <rename id="clhi.5204509748899475790" type="CONCEPT" from="Action" to="ActionDefinition" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="clhi" modelUID="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" version="2" />
+    </dependencies>
+    <rename id="clhi.5204509748899533575" type="CONCEPT" from="Argument" to="ArgumentDefinition" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="clhi" modelUID="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" version="3" />
+    </dependencies>
+    <rename id="clhi.2972535824193493427" type="CONCEPT" from="Task" to="TaskDefinition" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="clhi" modelUID="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" version="4" />
+    </dependencies>
+    <rename id="clhi.2972535824193547825" type="CONCEPT" from="NamedTask" to="NamedTaskDefinition" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="clhi" modelUID="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" version="5" />
+    </dependencies>
+    <rename id="clhi.2972535824194036504" type="CONCEPT" from="Task" to="TaskReference" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="clhi" modelUID="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" version="6" />
+    </dependencies>
+    <rename id="clhi.2972535824193962130" type="CONCEPT" from="Context" to="ContextInstance" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="clhi" modelUID="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" version="7" />
+    </dependencies>
+    <rename id="clhi.5204509748899533575" type="CONCEPT" from="ArgumentDefinition" to="Parameter" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="clhi" modelUID="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" version="8" />
+    </dependencies>
+    <rename id="clhi.5204509748899534029" type="CONCEPT" from="OptionArgument" to="OptionParameter" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="clhi" modelUID="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" version="9" />
+    </dependencies>
+    <rename id="clhi.2972535824193962316" type="CONCEPT" from="IHasArgs" to="IHasParameters" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="clhi" modelUID="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" version="10" />
+    </dependencies>
+    <rename id="clhi.5204509748899533611" type="CHILD" from="arguments" to="parameters" />
+  </StructureModification>
+</history>
+

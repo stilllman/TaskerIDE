@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="ActionCall_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.ActionCall_BehaviorDescriptor" />
+  <unitInfo fileName="ActionDefinition_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.ActionDefinition_BehaviorDescriptor" />
+  <unitInfo fileName="Argument_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.Argument_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="70" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="BooleanValue_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.BooleanValue_BehaviorDescriptor" />
+  <unitInfo fileName="CategoryGroup_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.CategoryGroup_BehaviorDescriptor" />
+  <unitInfo fileName="Category_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.Category_BehaviorDescriptor" />
+  <unitInfo fileName="ContextDefinition_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.ContextDefinition_BehaviorDescriptor" />
+  <unitInfo fileName="ContextInstance_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.ContextInstance_BehaviorDescriptor" />
+  <unitInfo fileName="EventDefinition_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.EventDefinition_BehaviorDescriptor" />
+  <unitInfo fileName="IHasArguments_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.IHasArguments_BehaviorDescriptor" />
+  <unitInfo fileName="IHasParameters_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.IHasParameters_BehaviorDescriptor" />
+  <unitInfo fileName="IntegerValue_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.IntegerValue_BehaviorDescriptor" />
+  <unitInfo fileName="NamedTaskDefinition_BehaviorDescriptor.java" startLine="9" startPosition="0" endLine="22" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.NamedTaskDefinition_BehaviorDescriptor" />
+  <unitInfo fileName="OptionParameter_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.OptionParameter_BehaviorDescriptor" />
+  <unitInfo fileName="OptionValue_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.OptionValue_BehaviorDescriptor" />
+  <unitInfo fileName="Option_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.Option_BehaviorDescriptor" />
+  <unitInfo fileName="Parameter_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.Parameter_BehaviorDescriptor" />
+  <unitInfo fileName="Profile_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.Profile_BehaviorDescriptor" />
+  <unitInfo fileName="StateDefinition_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.StateDefinition_BehaviorDescriptor" />
+  <unitInfo fileName="StringValue_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.StringValue_BehaviorDescriptor" />
+  <unitInfo fileName="TaskDefinition_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.TaskDefinition_BehaviorDescriptor" />
+  <unitInfo fileName="TaskReference_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.TaskReference_BehaviorDescriptor" />
+  <unitInfo fileName="ValueOrVariable_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.ValueOrVariable_BehaviorDescriptor" />
+  <unitInfo fileName="Value_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.Value_BehaviorDescriptor" />
+  <unitInfo fileName="VariableGroup_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.VariableGroup_BehaviorDescriptor" />
+  <unitInfo fileName="Variable_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="stillmancorp.dsl.tasker.behavior.Variable_BehaviorDescriptor" />
+</debugInfo>
+

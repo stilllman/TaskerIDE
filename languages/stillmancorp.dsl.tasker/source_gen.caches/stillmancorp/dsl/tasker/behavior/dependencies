@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="stillmancorp.dsl.tasker.behavior.ActionCall_BehaviorDescriptor" file="ActionCall_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.IHasArguments_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.ActionDefinition_BehaviorDescriptor" file="ActionDefinition_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.IHasParameters_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.Argument_BehaviorDescriptor" file="Argument_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.ActionCall_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.ActionDefinition_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Argument_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.BooleanValue_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.CategoryGroup_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Category_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.ContextDefinition_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.ContextInstance_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.EventDefinition_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.IntegerValue_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.NamedTaskDefinition_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.OptionParameter_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.OptionValue_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Option_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Parameter_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Profile_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.StateDefinition_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.StringValue_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.TaskDefinition_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.TaskReference_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.ValueOrVariable_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Value_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.VariableGroup_BehaviorDescriptor" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Variable_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.BooleanValue_BehaviorDescriptor" file="BooleanValue_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Value_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.CategoryGroup_BehaviorDescriptor" file="CategoryGroup_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.Category_BehaviorDescriptor" file="Category_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.ContextDefinition_BehaviorDescriptor" file="ContextDefinition_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.IHasParameters_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.ContextInstance_BehaviorDescriptor" file="ContextInstance_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.EventDefinition_BehaviorDescriptor" file="EventDefinition_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.ContextDefinition_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.IHasArguments_BehaviorDescriptor" file="IHasArguments_BehaviorDescriptor.java" />
+  <dependency className="stillmancorp.dsl.tasker.behavior.IHasParameters_BehaviorDescriptor" file="IHasParameters_BehaviorDescriptor.java" />
+  <dependency className="stillmancorp.dsl.tasker.behavior.IntegerValue_BehaviorDescriptor" file="IntegerValue_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Value_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.NamedTaskDefinition_BehaviorDescriptor" file="NamedTaskDefinition_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.TaskDefinition_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.OptionParameter_BehaviorDescriptor" file="OptionParameter_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Parameter_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.OptionValue_BehaviorDescriptor" file="OptionValue_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Value_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.Option_BehaviorDescriptor" file="Option_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.Parameter_BehaviorDescriptor" file="Parameter_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.Profile_BehaviorDescriptor" file="Profile_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.StateDefinition_BehaviorDescriptor" file="StateDefinition_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.ContextDefinition_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.StringValue_BehaviorDescriptor" file="StringValue_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Value_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.TaskDefinition_BehaviorDescriptor" file="TaskDefinition_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.TaskReference_BehaviorDescriptor" file="TaskReference_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.ValueOrVariable_BehaviorDescriptor" file="ValueOrVariable_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="stillmancorp.dsl.tasker.behavior.Value_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.Value_BehaviorDescriptor" file="Value_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.VariableGroup_BehaviorDescriptor" file="VariableGroup_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="stillmancorp.dsl.tasker.behavior.Variable_BehaviorDescriptor" file="Variable_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+</dependenciesRoot>
+

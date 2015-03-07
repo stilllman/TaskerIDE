@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-bjx7pqty5o7uqoo1mxmm6uy2bcsa97z">
+  <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+  <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
+  <dep model="f:java_stub#6ed54515-acc8-4d1e-a16c-9fd6cfe951ea#jetbrains.mps.smodel.runtime.impl(MPS.Core/jetbrains.mps.smodel.runtime.impl@java_stub)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" hash="5sdbpqxziyuazpb9j1p4zdk6bnvbn49" />
+  <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" hash="-5mgxduek28h3ywdzzsk4capaz4hgjm0" />
+  <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" hash="303xz1b2lyseld0axia86q3lpvucmq6" />
+  <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" hash="b4ewbuz42qcbg1awca5bacgi0vopxqt" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" hash="a8elw7fctzg6sg8fe36u9gzu42axhdb" />
+  <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" hash="-8chtguhcvj45cjy0bx3xiqekte2lox7" />
+  <common hash="6och2iw5sa2eggvsoq4qld46ud6fmcu" dependsOnNodes="true">
+    <dep root="2972535824193493427" />
+    <dep root="2972535824193547825" />
+    <dep root="2972535824193547898" />
+    <dep root="2972535824193962130" />
+    <dep root="2972535824193962131" />
+    <dep root="2972535824193962175" />
+    <dep root="2972535824193962316" />
+    <dep root="2972535824193972365" />
+    <dep root="2972535824194036504" />
+    <dep root="5178289858535010302" />
+    <dep root="5204509748899475790" />
+    <dep root="5204509748899533575" />
+    <dep root="5204509748899533579" />
+    <dep root="5204509748899533642" />
+    <dep root="5204509748899533768" />
+    <dep root="5204509748899533826" />
+    <dep root="5204509748899534029" />
+    <dep root="5204509748899534090" />
+    <dep root="9210013573146454203" />
+    <dep root="9210013573146489476" />
+    <dep root="9210013573146549449" />
+    <dep root="9210013573146597794" />
+    <dep root="9210013573146597856" />
+    <dep root="9210013573146597922" />
+    <dep root="9210013573146597990" />
+    <dep root="9210013573146598060" />
+    <dep root="9210013573146598416" />
+    <dep root="9210013573146598491" />
+    <dep root="9210013573146916223" />
+    <dep model="f:java_stub#6ed54515-acc8-4d1e-a16c-9fd6cfe951ea#jetbrains.mps.smodel.runtime.impl(MPS.Core/jetbrains.mps.smodel.runtime.impl@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+    <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <file name="StructureAspectDescriptor.java" />
+  </common>
+  <source id="5204509748899475790" name="ActionDefinition" hash="7v8eb1za4ykhoa8j3xoa2ml4s6253fn" />
+  <source id="5204509748899533575" name="Parameter" hash="6lqp1h2m3s42jtoy87vmi3fzkwsu9ud" />
+  <source id="5204509748899533579" name="Category" hash="-213rpcwkpsbfwaox9s1qgqc8a4sywx8" />
+  <source id="5204509748899533642" name="TaskerDataTypes" hash="-912jiwpfbctcevtx12l0tiwcpq56okg">
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+    <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
+    <file name="TaskerDataTypes.java" />
+    <file name="TaskerDataTypes_PropertySupport.java" />
+  </source>
+  <source id="5204509748899533768" name="TaskerPrivacy" hash="-9efal0ektw2o657xhtv2zb3ic12cabw">
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+    <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
+    <file name="TaskerPrivacy.java" />
+    <file name="TaskerPrivacy_PropertySupport.java" />
+  </source>
+  <source id="5204509748899533826" name="TaskerContentType" hash="6nbwfcu3g0nsmb02o5j7jwifvef8pyv">
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+    <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
+    <file name="TaskerContentType.java" />
+    <file name="TaskerContentType_PropertySupport.java" />
+  </source>
+  <source id="5204509748899534029" name="OptionParameter" hash="-2xe086w0v671zgipkdt9v0a0sejz9pb" />
+  <source id="5204509748899534090" name="Option" hash="bbf3zh8yfvl3fw3keayd047acjojh2m" />
+  <source id="2972535824193493427" name="TaskDefinition" hash="-6gqbe3fbo3oz7q5d6tto4hz60xwqq2c" />
+  <source id="2972535824193547825" name="NamedTaskDefinition" hash="4k74hke7hl0qigibhx1z1s46kkwbbuu" />
+  <source id="2972535824193547898" name="Profile" hash="-dbrzp2vvph0whlx1bwhntmud0xb01yv" />
+  <source id="2972535824193962130" name="ContextInstance" hash="-c89b2yoo7zelwn98qj78mzd2kbc0b6y" />
+  <source id="2972535824193962131" name="EventDefinition" hash="7aqtg29qi5iva18ns951a8ddyvq2g79" />
+  <source id="2972535824193962175" name="StateDefinition" hash="58bt1ztsxohfazqgojfs2ktai7gayyk" />
+  <source id="2972535824193962316" name="IHasParameters" hash="9hjvdj53d42gelky69n9q6bcxfexxa6" />
+  <source id="2972535824193972365" name="ContextDefinition" hash="4ub9klygb4iad75dyqk98r9zclikfxh" />
+  <source id="2972535824194036504" name="TaskReference" hash="-4m7shr4578qen5462rnqr857eldiisu" />
+  <source id="9210013573146454203" name="ActionCall" hash="egd4uczlwb2ne03scbsnypqmclqy7m2" />
+  <source id="9210013573146489476" name="Argument" hash="-2vu3d433ysrlyxlpuml5dowi3b1gh1d" />
+  <source id="9210013573146549449" name="IHasArguments" hash="e1ybao3ux9kpmtgignj2d051uzo8zwe" />
+  <source id="9210013573146597794" name="Value" hash="-4kcuan9u6yja41wsevn4n65qo8cljkm" />
+  <source id="9210013573146597856" name="IntegerValue" hash="-436qacxv5eg7etiuzzhchmm6imizhs7" />
+  <source id="9210013573146597922" name="StringValue" hash="cfhx4m097eqrcqu48wnii8uxutatxee" />
+  <source id="9210013573146597990" name="BooleanValue" hash="7qpds7387kqi5atj391g8m5pwpdxeop" />
+  <source id="9210013573146598060" name="OptionValue" hash="4r9t5xx9oq8i9pquu71grkran9xr7me" />
+  <source id="9210013573146598416" name="Variable" hash="-aqyw9o1s3fny5fhnd19udyqcsln5uw6" />
+  <source id="9210013573146598491" name="VariableGroup" hash="-e7l9a10z27lbzqf6f8st12341zoritq" />
+  <source id="9210013573146916223" name="ValueOrVariable" hash="b5qcvzcn6lsnurs884x4siuzzp2r5dq" />
+  <source id="5178289858535010302" name="CategoryGroup" hash="-85u35mxnzp5ouyktu4f0ujpzalv9sw2" />
+</dependencies>
+

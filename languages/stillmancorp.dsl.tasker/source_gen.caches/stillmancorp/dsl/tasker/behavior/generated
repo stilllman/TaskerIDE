@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="9aj0evqj0932i4uey0kdlue72zu0r1v">
+  <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" hash="61wht9cj3icmq9lpyigsv7597eepxrl" />
+  <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" hash="5sdbpqxziyuazpb9j1p4zdk6bnvbn49" />
+  <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" hash="303xz1b2lyseld0axia86q3lpvucmq6" />
+  <dep model="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)" hash="-8z73tx2nml9xagbxlfmq60ehji8q3f5" />
+  <dep model="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" hash="-bjx7pqty5o7uqoo1mxmm6uy2bcsa97z" />
+  <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" hash="-1vtu6uptzx5l7n2n68xt5em9d6nhvec" />
+  <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" hash="b4ewbuz42qcbg1awca5bacgi0vopxqt" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" hash="a8elw7fctzg6sg8fe36u9gzu42axhdb" />
+  <common hash="9aj0evqj0932i4uey0kdlue72zu0r1v" dependsOnNodes="true">
+    <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)" />
+    <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+    <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <file name="ActionCall_BehaviorDescriptor.java" />
+    <file name="ActionDefinition_BehaviorDescriptor.java" />
+    <file name="Argument_BehaviorDescriptor.java" />
+    <file name="BehaviorAspectDescriptor.java" />
+    <file name="BooleanValue_BehaviorDescriptor.java" />
+    <file name="CategoryGroup_BehaviorDescriptor.java" />
+    <file name="Category_BehaviorDescriptor.java" />
+    <file name="ContextDefinition_BehaviorDescriptor.java" />
+    <file name="ContextInstance_BehaviorDescriptor.java" />
+    <file name="EventDefinition_BehaviorDescriptor.java" />
+    <file name="IHasArguments_BehaviorDescriptor.java" />
+    <file name="IHasParameters_BehaviorDescriptor.java" />
+    <file name="IntegerValue_BehaviorDescriptor.java" />
+    <file name="NamedTaskDefinition_BehaviorDescriptor.java" />
+    <file name="OptionParameter_BehaviorDescriptor.java" />
+    <file name="OptionValue_BehaviorDescriptor.java" />
+    <file name="Option_BehaviorDescriptor.java" />
+    <file name="Parameter_BehaviorDescriptor.java" />
+    <file name="Profile_BehaviorDescriptor.java" />
+    <file name="StateDefinition_BehaviorDescriptor.java" />
+    <file name="StringValue_BehaviorDescriptor.java" />
+    <file name="TaskDefinition_BehaviorDescriptor.java" />
+    <file name="TaskReference_BehaviorDescriptor.java" />
+    <file name="ValueOrVariable_BehaviorDescriptor.java" />
+    <file name="Value_BehaviorDescriptor.java" />
+    <file name="VariableGroup_BehaviorDescriptor.java" />
+    <file name="Variable_BehaviorDescriptor.java" />
+  </common>
+</dependencies>
+

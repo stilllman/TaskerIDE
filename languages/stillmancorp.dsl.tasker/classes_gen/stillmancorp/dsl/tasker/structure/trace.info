@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="75" endPosition="0" unitName="stillmancorp.dsl.tasker.structure.StructureAspectDescriptor" />
+  <root nodeRef="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)/5204509748899533642">
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="15" startPosition="0" endLine="16" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="myName" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="17" startPosition="27" endLine="18" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="21" startPosition="36" endLine="22" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="25" startPosition="54" endLine="26" endPosition="90" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="26" startPosition="90" endLine="27" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="27" startPosition="64" endLine="28" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="28" startPosition="68" endLine="29" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="29" startPosition="65" endLine="30" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="30" startPosition="65" endLine="31" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="34" startPosition="46" endLine="35" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="39" startPosition="24" endLine="40" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="42" startPosition="63" endLine="43" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="45" startPosition="67" endLine="46" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="48" startPosition="64" endLine="49" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="51" startPosition="64" endLine="52" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="53" startPosition="5" endLine="54" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="57" startPosition="0" endLine="58" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="myValue" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="59" startPosition="46" endLine="60" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="60" startPosition="23" endLine="61" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="64" startPosition="28" endLine="65" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="17" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="21" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValueAsString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="34" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getDefault#()Lstillmancorp/dsl/tasker/structure/TaskerDataTypes;" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="38" startPosition="58" endLine="41" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="41" startPosition="5" endLine="44" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="44" startPosition="5" endLine="47" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="47" startPosition="5" endLine="50" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="50" startPosition="5" endLine="53" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="64" startPosition="0" endLine="67" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValue#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="59" startPosition="0" endLine="63" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TaskerDataTypes#(Ljava/lang/String;Ljava/lang/String;)V" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="25" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getConstants#()Ljava/util/List;" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="38" startPosition="0" endLine="56" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="parseValue#(Ljava/lang/String;)Lstillmancorp/dsl/tasker/structure/TaskerDataTypes;" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="11" startPosition="24" endLine="12" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="13" startPosition="5" endLine="14" endPosition="107" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="15" startPosition="33" endLine="16" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="17" startPosition="45" endLine="18" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="20" startPosition="5" endLine="21" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="25" startPosition="24" endLine="26" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="27" startPosition="5" endLine="28" endPosition="107" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="29" startPosition="33" endLine="30" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="31" startPosition="45" endLine="32" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="34" startPosition="5" endLine="35" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="38" startPosition="49" endLine="39" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="40" startPosition="27" endLine="41" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="42" startPosition="5" endLine="43" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="10" startPosition="44" endLine="13" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="16" startPosition="50" endLine="19" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="24" startPosition="47" endLine="27" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="30" startPosition="50" endLine="33" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="39" startPosition="65" endLine="42" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="14" startPosition="107" endLine="20" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="28" startPosition="107" endLine="34" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="38" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="10" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="canSetValue#(Ljava/lang/String;)Z" />
+    <nodeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="24" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="17" startPosition="27" endLine="18" endPosition="23" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="21" startPosition="36" endLine="22" endPosition="24" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="34" startPosition="46" endLine="35" endPosition="16" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="39" startPosition="24" endLine="40" endPosition="42" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="42" startPosition="63" endLine="43" endPosition="33" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="45" startPosition="67" endLine="46" endPosition="37" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="48" startPosition="64" endLine="49" endPosition="34" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="51" startPosition="64" endLine="52" endPosition="34" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="64" startPosition="28" endLine="65" endPosition="24" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="59" startPosition="46" endLine="61" endPosition="25" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="17" startPosition="0" endLine="20" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="21" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="34" startPosition="0" endLine="37" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="64" startPosition="0" endLine="67" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="59" startPosition="0" endLine="63" endPosition="0">
+      <varInfo nodeId="5204509748899533642" varName="name" />
+      <varInfo nodeId="5204509748899533642" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="25" startPosition="54" endLine="31" endPosition="16">
+      <varInfo nodeId="5204509748899533642" varName="list" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="25" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="38" startPosition="58" endLine="54" endPosition="40" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="38" startPosition="0" endLine="56" endPosition="0">
+      <varInfo nodeId="5204509748899533642" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="11" startPosition="24" endLine="12" endPosition="18" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="17" startPosition="45" endLine="18" endPosition="20" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="25" startPosition="24" endLine="26" endPosition="18" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="31" startPosition="45" endLine="32" endPosition="43" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="40" startPosition="27" endLine="41" endPosition="32" />
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="15" startPosition="33" endLine="19" endPosition="7">
+      <varInfo nodeId="5204509748899533642" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="29" startPosition="33" endLine="33" endPosition="7">
+      <varInfo nodeId="5204509748899533642" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="38" startPosition="49" endLine="43" endPosition="14">
+      <varInfo nodeId="5204509748899533642" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="38" startPosition="0" endLine="45" endPosition="0">
+      <varInfo nodeId="5204509748899533642" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="10" startPosition="44" endLine="21" endPosition="17">
+      <varInfo nodeId="5204509748899533642" varName="constants" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="24" startPosition="47" endLine="35" endPosition="16">
+      <varInfo nodeId="5204509748899533642" varName="constants" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="10" startPosition="0" endLine="23" endPosition="0">
+      <varInfo nodeId="5204509748899533642" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="24" startPosition="0" endLine="37" endPosition="0">
+      <varInfo nodeId="5204509748899533642" varName="value" />
+    </scopeInfo>
+    <unitInfo nodeId="5204509748899533642" fileName="TaskerDataTypes.java" startLine="9" startPosition="0" endLine="68" endPosition="0" unitName="stillmancorp.dsl.tasker.structure.TaskerDataTypes" />
+    <unitInfo nodeId="5204509748899533642" fileName="TaskerDataTypes_PropertySupport.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="stillmancorp.dsl.tasker.structure.TaskerDataTypes_PropertySupport" />
+  </root>
+  <root nodeRef="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)/5204509748899533768">
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="13" startPosition="0" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="myName" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="15" startPosition="27" endLine="16" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="19" startPosition="36" endLine="20" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="23" startPosition="52" endLine="24" endPosition="86" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="24" startPosition="86" endLine="25" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="25" startPosition="62" endLine="26" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="26" startPosition="63" endLine="27" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="30" startPosition="44" endLine="31" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="35" startPosition="24" endLine="36" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="38" startPosition="61" endLine="39" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="41" startPosition="62" endLine="42" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="43" startPosition="5" endLine="44" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="47" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="myValue" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="49" startPosition="44" endLine="50" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="50" startPosition="23" endLine="51" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="54" startPosition="28" endLine="55" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="15" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="19" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValueAsString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="30" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getDefault#()Lstillmancorp/dsl/tasker/structure/TaskerPrivacy;" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="34" startPosition="56" endLine="37" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="37" startPosition="5" endLine="40" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="40" startPosition="5" endLine="43" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="54" startPosition="0" endLine="57" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValue#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="49" startPosition="0" endLine="53" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TaskerPrivacy#(Ljava/lang/String;Ljava/lang/String;)V" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="23" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getConstants#()Ljava/util/List;" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="34" startPosition="0" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="parseValue#(Ljava/lang/String;)Lstillmancorp/dsl/tasker/structure/TaskerPrivacy;" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="11" startPosition="24" endLine="12" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="13" startPosition="5" endLine="14" endPosition="103" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="15" startPosition="33" endLine="16" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="17" startPosition="45" endLine="18" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="20" startPosition="5" endLine="21" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="25" startPosition="24" endLine="26" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="27" startPosition="5" endLine="28" endPosition="103" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="29" startPosition="33" endLine="30" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="31" startPosition="45" endLine="32" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="34" startPosition="5" endLine="35" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="38" startPosition="49" endLine="39" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="40" startPosition="27" endLine="41" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="42" startPosition="5" endLine="43" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="10" startPosition="44" endLine="13" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="16" startPosition="48" endLine="19" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="24" startPosition="47" endLine="27" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="30" startPosition="48" endLine="33" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="39" startPosition="61" endLine="42" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="14" startPosition="103" endLine="20" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="28" startPosition="103" endLine="34" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="38" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="10" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="canSetValue#(Ljava/lang/String;)Z" />
+    <nodeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="24" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="15" startPosition="27" endLine="16" endPosition="23" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="19" startPosition="36" endLine="20" endPosition="24" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="30" startPosition="44" endLine="31" endPosition="29" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="35" startPosition="24" endLine="36" endPosition="40" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="38" startPosition="61" endLine="39" endPosition="31" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="41" startPosition="62" endLine="42" endPosition="32" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="54" startPosition="28" endLine="55" endPosition="24" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="49" startPosition="44" endLine="51" endPosition="25" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="15" startPosition="0" endLine="18" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="19" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="30" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="54" startPosition="0" endLine="57" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="23" startPosition="52" endLine="27" endPosition="16">
+      <varInfo nodeId="5204509748899533768" varName="list" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="49" startPosition="0" endLine="53" endPosition="0">
+      <varInfo nodeId="5204509748899533768" varName="name" />
+      <varInfo nodeId="5204509748899533768" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="23" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="34" startPosition="56" endLine="44" endPosition="38" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="34" startPosition="0" endLine="46" endPosition="0">
+      <varInfo nodeId="5204509748899533768" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="11" startPosition="24" endLine="12" endPosition="18" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="17" startPosition="45" endLine="18" endPosition="20" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="25" startPosition="24" endLine="26" endPosition="18" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="31" startPosition="45" endLine="32" endPosition="43" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="40" startPosition="27" endLine="41" endPosition="32" />
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="15" startPosition="33" endLine="19" endPosition="7">
+      <varInfo nodeId="5204509748899533768" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="29" startPosition="33" endLine="33" endPosition="7">
+      <varInfo nodeId="5204509748899533768" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="38" startPosition="49" endLine="43" endPosition="14">
+      <varInfo nodeId="5204509748899533768" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="38" startPosition="0" endLine="45" endPosition="0">
+      <varInfo nodeId="5204509748899533768" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="10" startPosition="44" endLine="21" endPosition="17">
+      <varInfo nodeId="5204509748899533768" varName="constants" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="24" startPosition="47" endLine="35" endPosition="16">
+      <varInfo nodeId="5204509748899533768" varName="constants" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="10" startPosition="0" endLine="23" endPosition="0">
+      <varInfo nodeId="5204509748899533768" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="24" startPosition="0" endLine="37" endPosition="0">
+      <varInfo nodeId="5204509748899533768" varName="value" />
+    </scopeInfo>
+    <unitInfo nodeId="5204509748899533768" fileName="TaskerPrivacy.java" startLine="9" startPosition="0" endLine="58" endPosition="0" unitName="stillmancorp.dsl.tasker.structure.TaskerPrivacy" />
+    <unitInfo nodeId="5204509748899533768" fileName="TaskerPrivacy_PropertySupport.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="stillmancorp.dsl.tasker.structure.TaskerPrivacy_PropertySupport" />
+  </root>
+  <root nodeRef="r:1b973080-7adf-4037-80d2-f32cb9a68b5d(stillmancorp.dsl.tasker.structure)/5204509748899533826">
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="17" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="myName" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="19" startPosition="27" endLine="20" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="23" startPosition="36" endLine="24" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="27" startPosition="56" endLine="28" endPosition="94" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="28" startPosition="94" endLine="29" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="29" startPosition="78" endLine="30" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="30" startPosition="66" endLine="31" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="31" startPosition="69" endLine="32" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="32" startPosition="67" endLine="33" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="33" startPosition="66" endLine="34" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="34" startPosition="67" endLine="35" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="38" startPosition="48" endLine="39" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="43" startPosition="24" endLine="44" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="46" startPosition="77" endLine="47" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="49" startPosition="65" endLine="50" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="52" startPosition="68" endLine="53" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="55" startPosition="66" endLine="56" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="58" startPosition="65" endLine="59" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="61" startPosition="66" endLine="62" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="63" startPosition="5" endLine="64" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="67" startPosition="0" endLine="68" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="myValue" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="69" startPosition="48" endLine="70" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="70" startPosition="23" endLine="71" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="74" startPosition="28" endLine="75" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="19" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="23" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValueAsString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="38" startPosition="0" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getDefault#()Lstillmancorp/dsl/tasker/structure/TaskerContentType;" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="42" startPosition="60" endLine="45" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="45" startPosition="5" endLine="48" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="48" startPosition="5" endLine="51" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="51" startPosition="5" endLine="54" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="54" startPosition="5" endLine="57" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="57" startPosition="5" endLine="60" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="60" startPosition="5" endLine="63" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="74" startPosition="0" endLine="77" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValue#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="69" startPosition="0" endLine="73" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TaskerContentType#(Ljava/lang/String;Ljava/lang/String;)V" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="27" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getConstants#()Ljava/util/List;" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="42" startPosition="0" endLine="66" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="parseValue#(Ljava/lang/String;)Lstillmancorp/dsl/tasker/structure/TaskerContentType;" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="11" startPosition="24" endLine="12" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="13" startPosition="5" endLine="14" endPosition="111" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="15" startPosition="33" endLine="16" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="17" startPosition="45" endLine="18" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="20" startPosition="5" endLine="21" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="25" startPosition="24" endLine="26" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="27" startPosition="5" endLine="28" endPosition="111" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="29" startPosition="33" endLine="30" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="31" startPosition="45" endLine="32" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="34" startPosition="5" endLine="35" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="38" startPosition="49" endLine="39" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="40" startPosition="27" endLine="41" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="42" startPosition="5" endLine="43" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="10" startPosition="44" endLine="13" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="16" startPosition="52" endLine="19" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="24" startPosition="47" endLine="27" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="30" startPosition="52" endLine="33" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="39" startPosition="69" endLine="42" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="14" startPosition="111" endLine="20" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="28" startPosition="111" endLine="34" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="38" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="10" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="canSetValue#(Ljava/lang/String;)Z" />
+    <nodeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="24" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="19" startPosition="27" endLine="20" endPosition="23" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="23" startPosition="36" endLine="24" endPosition="24" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="38" startPosition="48" endLine="39" endPosition="16" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="43" startPosition="24" endLine="44" endPosition="44" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="46" startPosition="77" endLine="47" endPosition="47" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="49" startPosition="65" endLine="50" endPosition="35" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="52" startPosition="68" endLine="53" endPosition="38" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="55" startPosition="66" endLine="56" endPosition="36" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="58" startPosition="65" endLine="59" endPosition="35" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="61" startPosition="66" endLine="62" endPosition="36" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="74" startPosition="28" endLine="75" endPosition="24" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="69" startPosition="48" endLine="71" endPosition="25" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="19" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="23" startPosition="0" endLine="26" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="38" startPosition="0" endLine="41" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="74" startPosition="0" endLine="77" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="69" startPosition="0" endLine="73" endPosition="0">
+      <varInfo nodeId="5204509748899533826" varName="name" />
+      <varInfo nodeId="5204509748899533826" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="27" startPosition="56" endLine="35" endPosition="16">
+      <varInfo nodeId="5204509748899533826" varName="list" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="27" startPosition="0" endLine="37" endPosition="0" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="42" startPosition="60" endLine="64" endPosition="42" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="42" startPosition="0" endLine="66" endPosition="0">
+      <varInfo nodeId="5204509748899533826" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="11" startPosition="24" endLine="12" endPosition="18" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="17" startPosition="45" endLine="18" endPosition="20" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="25" startPosition="24" endLine="26" endPosition="18" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="31" startPosition="45" endLine="32" endPosition="43" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="40" startPosition="27" endLine="41" endPosition="32" />
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="15" startPosition="33" endLine="19" endPosition="7">
+      <varInfo nodeId="5204509748899533826" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="29" startPosition="33" endLine="33" endPosition="7">
+      <varInfo nodeId="5204509748899533826" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="38" startPosition="49" endLine="43" endPosition="14">
+      <varInfo nodeId="5204509748899533826" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="38" startPosition="0" endLine="45" endPosition="0">
+      <varInfo nodeId="5204509748899533826" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="10" startPosition="44" endLine="21" endPosition="17">
+      <varInfo nodeId="5204509748899533826" varName="constants" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="24" startPosition="47" endLine="35" endPosition="16">
+      <varInfo nodeId="5204509748899533826" varName="constants" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="10" startPosition="0" endLine="23" endPosition="0">
+      <varInfo nodeId="5204509748899533826" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="24" startPosition="0" endLine="37" endPosition="0">
+      <varInfo nodeId="5204509748899533826" varName="value" />
+    </scopeInfo>
+    <unitInfo nodeId="5204509748899533826" fileName="TaskerContentType.java" startLine="9" startPosition="0" endLine="78" endPosition="0" unitName="stillmancorp.dsl.tasker.structure.TaskerContentType" />
+    <unitInfo nodeId="5204509748899533826" fileName="TaskerContentType_PropertySupport.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="stillmancorp.dsl.tasker.structure.TaskerContentType_PropertySupport" />
+  </root>
+</debugInfo>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-88xhcca8mc966j0bd2wp93qlbokb3or">
+  <common hash="d35pcr4br4z3n130lyoubs7fixzchf2" />
+  <source id="5204509748899882334" name="Flash" hash="6gnk34u70vxjv56mwmu2k41hdo877h8">
+    <file name="Flash" />
+  </source>
+  <source id="2972535824194094732" hash="ey4v8me0nblxgce8hcb7livisobzle0" />
+  <source id="2972535824194094787" name="Variable Value" hash="9lvzyadsaj9lrcpcllo7xqkcedr9sqx">
+    <file name="Variable Value" />
+  </source>
+  <source id="2972535824194112391" name="Display versions" hash="a7jdtwdnj5hsdcrx290rxrnch219a97">
+    <file name="Display versions" />
+  </source>
+</dependencies>
+
